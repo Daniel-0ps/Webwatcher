@@ -1,0 +1,12 @@
+# Core dependencies
+requests==2.32.3
+beautifulsoup4==4.12.3
+
+# Optional: parsing HTML (bs4 l'utilise déjà, mais on fige pour cohérence)
+soupsieve==2.5
+
+# Server test (Flask app.py)
+Flask==3.0.3
+
+# Utilities (log formatting, dev tools)
+colorama==0.4.6
