@@ -1,0 +1,37 @@
+2025-08-26 22:31:54 INFO    Fetch https://example.com (200, 1256 bytes)
+2025-08-26 22:31:54 WARNING Sélecteur 'main' introuvable ; document entier utilisé.
+2025-08-26 22:31:54 WARNING *** ALERTE *** Changement détecté.
+2025-08-26 22:32:54 INFO    Fetch https://example.com (200, 1256 bytes)
+2025-08-26 22:32:54 WARNING Sélecteur 'main' introuvable ; document entier utilisé.
+2025-08-26 22:32:54 INFO    Aucun changement détecté.
+2025-08-26 22:33:55 INFO    Fetch https://example.com (200, 1256 bytes)
+2025-08-26 22:33:55 WARNING Sélecteur 'main' introuvable ; document entier utilisé.
+2025-08-26 22:33:55 INFO    Aucun changement détecté.
+2025-08-26 22:34:09 INFO    Signal 2 reçu : arrêt propre...
+2025-08-26 22:34:56 INFO    Fetch https://example.com (200, 1256 bytes)
+2025-08-26 22:34:56 WARNING Sélecteur 'main' introuvable ; document entier utilisé.
+2025-08-26 22:34:56 INFO    Aucun changement détecté.
+2025-08-27 07:33:08 INFO    Fetch http://127.0.0.1:5000/ (200, 579 bytes)
+2025-08-27 07:33:08 INFO    Aucun changement détecté.
+2025-08-27 07:34:08 INFO    Fetch http://127.0.0.1:5000/ (200, 579 bytes)
+2025-08-27 07:34:08 INFO    Aucun changement détecté.
+2025-08-27 07:35:08 INFO    Fetch http://127.0.0.1:5000/ (200, 602 bytes)
+2025-08-27 07:35:08 WARNING *** ALERTE *** Changement détecté.
+2025-08-27 07:35:17 INFO    Signal 2 reçu : arrêt propre...
+2025-08-27 07:36:08 INFO    Fetch http://127.0.0.1:5000/ (200, 602 bytes)
+2025-08-27 07:36:08 INFO    Aucun changement détecté.
+2025-08-27 07:48:50 INFO    Fetch http://127.0.0.1:5000/ (200, 602 bytes)
+2025-08-27 07:48:51 INFO    Première exécution : référence enregistrée.
+2025-08-27 07:49:21 INFO    Fetch http://127.0.0.1:5000/ (200, 602 bytes)
+2025-08-27 07:49:21 INFO    Aucun changement détecté.
+2025-08-27 07:49:51 INFO    Fetch http://127.0.0.1:5000/ (200, 615 bytes)
+2025-08-27 07:49:51 WARNING *** ALERTE *** Changement détecté.
+2025-08-27 07:50:21 INFO    Fetch http://127.0.0.1:5000/ (200, 631 bytes)
+2025-08-27 07:50:21 WARNING *** ALERTE *** Changement détecté.
+2025-08-27 07:50:51 INFO    Fetch http://127.0.0.1:5000/ (200, 631 bytes)
+2025-08-27 07:50:51 INFO    Aucun changement détecté.
+2025-08-27 07:51:20 INFO    Fetch http://127.0.0.1:5000/ (200, 631 bytes)
+2025-08-27 07:51:20 INFO    Aucun changement détecté.
+2025-08-27 07:51:29 INFO    Signal 2 reçu : arrêt propre...
+2025-08-27 07:51:50 INFO    Fetch http://127.0.0.1:5000/ (200, 631 bytes)
+2025-08-27 07:51:50 INFO    Aucun changement détecté.

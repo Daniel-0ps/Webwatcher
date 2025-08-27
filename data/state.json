@@ -1,0 +1,13 @@
+{
+  "url": "http://127.0.0.1:5000/",
+  "hash": "770901d1cf3f993306c034821c0f3bca0508da3580c15ea0a288a9ebccb53e8b",
+  "updated_at": "2025-08-27T05:51:50+0000",
+  "selector": null,
+  "ignore": [
+    ".banner",
+    "#ts"
+  ],
+  "last_http_status": 200,
+  "last_content_length": 631,
+  "user_agent": "WebWatcher/1.0 (+contact)"
+}
